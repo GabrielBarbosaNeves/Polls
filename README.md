@@ -36,7 +36,7 @@ O Polls é um projeto focado em back-end para a criação de um sistema de vota�
 ```
 {
 	"title": "Qual melhor comida?", 
-	"options": ["Pizza", "Lazanha", "Aparmegiana", "Macarrão"]
+	"options": ["Pizza", "Lazanha", "À parmegiana", "Macarrão"]
 }
 ```
 
